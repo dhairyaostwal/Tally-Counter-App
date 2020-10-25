@@ -1,5 +1,5 @@
 <h1 align="center">Tally Counter App<br><h3 align="center"><i>My first ReactJS project</i></h3><br>
-<h1 align="center"><img src="https://miro.medium.com/max/1400/1*KueXVwBtQpLwj0q6-SO9HA.png" height="500px" width="500px"><br>
+<h1 align="center"><img src="./public/Screenshot 2020-10-25 at 11.35.47.png" height="600px" width="1000px"><br>
   </h1>
   
 
@@ -28,9 +28,10 @@ Unfortunately doesn't support Mobile Responsiveness
 
 ## Run the Project
 
-```
+
 Visit the website - [link](https://admiring-archimedes-b5c8ef.netlify.app/)
-```
+
+---
 
 
 ## Before you leave 🥺
