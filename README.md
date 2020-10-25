@@ -1,5 +1,5 @@
 <h1 align="center">Tally Counter App<br><h3 align="center"><i>My first ReactJS project</i></h3><br>
-<h1 align="center"><img src="./public/Screenshot 2020-10-25 at 11.35.47.png" height="600px" width="1000px"><br>
+<h1 align="center"><img src="./public/Screenshot 2020-10-25 at 11.35.47.png"><br>
   </h1>
   
 
